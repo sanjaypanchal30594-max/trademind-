@@ -1,0 +1,5 @@
+{
+  "name": "TradeMind AI",
+  "description": "A comprehensive trading intelligence platform for Forex, Stocks, and Crypto, featuring AI-driven strategy creation, market prediction, and deep technical analysis.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
